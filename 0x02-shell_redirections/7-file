@@ -1,3 +1,2 @@
-#1/bin/bash
-
-file
+#!/bin/bash
+echo 'Best School' > \\\*\\\\'"\"Best School\"\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*:\)
